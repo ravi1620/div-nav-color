@@ -1,0 +1,38 @@
+div{
+    background-color: antiquewhite;
+    text-align: center;
+    border: 20px;
+    width: 300px;
+    border-radius: 50px;
+    margin: 20px;
+    border: 20px dashed rgb(129, 14, 6);
+    display: inline-block;
+} 
+nav{
+    display: inline-block;
+    border: 20px dotted green;
+    width: 300px;
+    border-radius: 50px;
+}
+.KKR{
+    background-color: rgba(87, 86, 168, 0.788);
+}
+.CSK{
+    background-color: rgb(204, 179, 132);
+    width: 280px;
+    border: 15px groove rgb(17, 17, 12);
+}
+#gt{
+    background-color: cadetblue;
+    height: 200px;
+    width: 250px;
+    border: 15px hidden brown;
+}
+body{
+    color: rgb(10, 8, 107);
+    background-color: cadetblue;
+}
+#winners{
+    border: 20px inset rgb(7, 39, 180);
+
+}
